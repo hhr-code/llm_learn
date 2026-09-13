@@ -1,0 +1,17 @@
+# 数据集（404MB，按需自行下载）
+data/
+
+# 第三方克隆仓库（有自己的 git 历史，克隆地址见 docs/LLM学习总路线.md）
+d2l-zh/
+thorough-pytorch/
+nanoGPT/
+nn-zero-to-hero/
+minbpe/
+minimind/
+nanochat/
+
+# 运行时产物
+__pycache__/
+*.pyc
+.DS_Store
+llm_env_install.log
